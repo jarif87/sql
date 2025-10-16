@@ -1,0 +1,1 @@
+select orderid,orderdate,shipdate,creationtime from sales.orders
